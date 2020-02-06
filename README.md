@@ -70,12 +70,10 @@ The markers can be filtered easily with no performance cost.
 	<script src="PruneCluster/dist/PruneCluster.js"></script>
 ```
 
-#### Webpack & NPM
-
-`npm install exports-loader prunecluster`
+#### NPM
 
 ```javascript
-import { PruneCluster, PruneClusterForLeaflet } from 'exports-loader?PruneCluster,PruneClusterForLeaflet!prunecluster/dist/PruneCluster.js'
+import { PruneCluster, PruneClusterForLeaflet } from 'prunecluster/dist'
 
 ```
 

@@ -1,7 +1,7 @@
 {
-  "name": "PruneCluster",
-  "version": "2.1.0",
-  "homepage": "https://github.com/SINTEF-9012/PruneCluster",
+  "name": "prunecluster-exportable",
+  "version": "1.0.0",
+  "homepage": "https://github.com/d-lukashevich/PruneCluster",
   "description": "Fast and realtime marker clustering for Leaflet",
   "keywords": [
     "map",
@@ -13,9 +13,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SINTEF-9012/PruneCluster.git"
+    "url": "https://github.com/d-lukashevich/PruneCluster"
   },
-  "main": "./dist/PruneCluster.js",
+  "main": "./dist/index.js",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-clean": "~1.1.0",
